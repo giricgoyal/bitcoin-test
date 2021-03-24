@@ -1,0 +1,1 @@
+export const getAddressTransactions = (state) => state?.address?.transactions?.payload;
